@@ -9,12 +9,6 @@ Nagios check for Elasticsearch; should work with any monitoring tools that suppo
 - PEP8'd the code
 - Cleaned up and commented the code
 
-### License
-AGPLv3
-
-### Author
-8c30ff1057d69a6a6f6dc2212d8ec25196c542acb8620eb4148318a4b10dd131
-
 ### Features
 * Check the cluster "color" status; red, yellow.
 * Check how many nodes are in the cluster.
