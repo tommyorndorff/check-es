@@ -1,7 +1,7 @@
 # check-es
 
 ## Overview
-Nagios check for Elasticsearch; should work with any monitoring tools that support the nagios NRPE check "API". I have tested it and it works fine with ZenOSS.
+Nagios check for Elasticsearch; should work with any monitoring tools that support the nagios NRPE check API. I have tested it and it works fine with ZenOSS.
 
 ### 2.0 changes
 - Uses `argparse` (much easier to add new features now)
